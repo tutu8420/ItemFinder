@@ -1,0 +1,7 @@
+{
+  "name": "ItemFinder",
+  "version_number": "1.3.2",
+  "website_url": "https://github.com/tutu8420/ItemFinder",
+  "description": "在背包面板上添加\u201c查找\u201d按钮：模糊搜索、拼音首字母搜索附近箱子的物品，穿墙标记 + 箭头 + 愿望骨音效指引，附带 P 键两点测距。",
+  "dependencies": []
+}
